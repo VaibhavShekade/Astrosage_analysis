@@ -1,18 +1,18 @@
 # AstroSage Data Analysis — Excel Dashboard
 
-## 🚀 Overview
+## Overview
 
 This project provides an end-to-end operational analysis of the AstroSage platform using **Microsoft Excel**. It converts raw historical consultation data into actionable insights that help evaluate performance, profitability, customer satisfaction, and operational efficiency. The dashboard empowers business leaders to make strategic, data-driven decisions for scaling AstroSage’s services.
 
 ---
 
-## 📌 Project Objective & Background
+## Project Objective & Background
 
 AstroSage is one of India’s largest astrology consultation platforms, offering services through calls, chats, and app-based interactions. With increasing customer engagement and platform expansion, AstroSage planned a **₹1 Crore investment** to enhance technology infrastructure and operational capacity. To justify this investment, a detailed analysis of customer behavior, agent performance, and revenue contribution was required.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 **Optimize call center operations to improve efficiency, customer satisfaction, and profitability.**
 
@@ -20,7 +20,7 @@ The goal was to uncover platform usage patterns, evaluate service quality, ident
 
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 
 Despite high traffic and strong business potential, AstroSage faced critical challenges:
 
@@ -36,7 +36,7 @@ These challenges reduced operational efficiency, hampered customer trust, and in
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![AstroSage Dashboard](images/astrosage-dashboard.png)
 
@@ -44,7 +44,7 @@ This interactive Excel dashboard centralizes all KPIs, trends, and segments with
 
 ---
 
-## 🔍 Scope of Analysis
+## Scope of Analysis
 
 The dashboard answers mission-critical business questions through:
 
@@ -57,7 +57,7 @@ The dashboard answers mission-critical business questions through:
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 | Insight | Interpretation |
 |--------|---------------|
@@ -69,7 +69,7 @@ The dashboard answers mission-critical business questions through:
 
 ---
 
-## 🏆 Business Value Delivered
+## Business Value Delivered
 
 ✔ Provided data-backed clarity for a **₹1 Crore investment** plan  
 ✔ Identified operational inefficiencies impacting profitability  
@@ -81,7 +81,7 @@ This analysis elevated decisions from **intuition-driven** to **insight-driven**
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 - **Interactive slicers** for date, consultation type, status, and website
 - **KPI cards** for total volume, revenue, agent count, and rating
@@ -91,7 +91,7 @@ This analysis elevated decisions from **intuition-driven** to **insight-driven**
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Excel**
 - **Pivot Tables**
@@ -101,5 +101,4 @@ This analysis elevated decisions from **intuition-driven** to **insight-driven**
 
 ---
 
-## 🗂 Folder Structure
 
